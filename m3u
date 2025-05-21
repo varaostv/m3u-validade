@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <title>Lista IPTV VSTV</title>
+</head>
+<body style="text-align:center; font-family:sans-serif; margin-top:50px;">
+  <h1>✅ Sua lista IPTV está ativa!</h1>
+  <p>Válida até <strong>19/06/2025</strong>.</p>
+  <p><a href="/.netlify/functions/m3u">Clique aqui para baixar sua lista M3U</a></p>
+</body>
+</html>
